@@ -1,1 +1,1 @@
-added file using readme gen
+This a readme generator generated from the command line!
